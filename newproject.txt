@@ -2,3 +2,5 @@ wpu resolusi
 - konsisten membuat conten sebanyak 2x seminggu
 - membuat platform untuk pengelolaan video
 - membuat forum diskusi
+- membuat http
+- membuat game
